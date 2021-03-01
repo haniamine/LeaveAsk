@@ -1,7 +1,8 @@
 # LeavAsk
  = Leave Ask = Leave question = Ask Question: c'est la meme chose
  
-Le principe est simple permettre aux streamers d'afficher des messages de leurs spectateur pour y répondre ou bien pour autre chose.
+Le principe est simple permettre aux streamers d'afficher des messages de leurs spectateurs pour y répondre ou bien pour autre chose.
+- ce projet est inclus dans mon participation à l'evenement "12 startup in 12 months" pour le mois de Mars
 
 # Technologies
 Cette app est réalisé en mode RestFull
@@ -14,3 +15,4 @@ Backend:
 Languages: 
 - Javascript
 - Ruby: 3.0.0
+
